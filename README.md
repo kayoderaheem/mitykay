@@ -1,5 +1,5 @@
 I'm Kayode Raheem 
-
+Msc BIoinformatics Student with research interest in Multi-Omics analysis, pharmacogenomics,immunoinformatics. 
 📧:raheemkayode2017@gmail.com
 
 Slack Username: @mitykay
